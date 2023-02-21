@@ -18,5 +18,4 @@ Connect with me on twitter [![Twitter: Shivnas88925017](https://img.shields.io/t
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FLYINGKRIPTO&theme=vue" />
 </p>
 
-<img src='https://github-readme-stats.vercel.app/api?username=FLYINGKRIPTO&&show_icons=true&title_color=ffffff&icon_color=0175c2&text_color=daf7dc&bg_color=151515'>
 
