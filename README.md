@@ -1,6 +1,6 @@
 ### Hi ! I Am Shivanshu 👋
 
-- 🔭 I’m currently working as Product Engineer at Threedots.
+- 🔭 I’m currently working as SDE-2 at Dhiwise.
 - 🌱 I’m currently learning React
 - 📫 How to reach me: ... 
 Connect with me on LinkedIn👉  [<img src = "https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=fff" />](https://www.linkedin.com/in/shivanshusr/)
