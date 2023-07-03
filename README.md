@@ -1,7 +1,7 @@
 ### Hi ! I Am Shivanshu 👋
 
 - 🔭 I’m currently working as SDE-2 at Dhiwise.
-- 🌱 I’m currently learning React
+- 🌱 Currently working on code generation through OPENAI models
 - 📫 How to reach me: ... 
 Connect with me on LinkedIn👉  [<img src = "https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=fff" />](https://www.linkedin.com/in/shivanshusr/)
 Connect with me on twitter [![Twitter: Shivnas88925017](https://img.shields.io/twitter/follow/Shivans88925017?style=social)](https://twitter.com/Shivans88925017)
